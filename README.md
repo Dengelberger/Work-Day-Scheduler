@@ -9,3 +9,5 @@ I also learned that loops are my friend, and that $(this) and .prev() are very h
 
 Here are some pictures of my page, which you can access at https://github.com/Dengelberger/Work-Day-Scheduler
 
+
+
