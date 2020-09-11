@@ -9,5 +9,7 @@ I also learned that loops are my friend, and that $(this) and .prev() are very h
 
 Here are some pictures of my page, which you can access at https://github.com/Dengelberger/Work-Day-Scheduler
 
-
+https://github.com/Dengelberger/Work-Day-Scheduler/blob/master/Assets/Screenshot%20(479).png
+https://github.com/Dengelberger/Work-Day-Scheduler/blob/master/Assets/Screenshot%20(480).png
+https://github.com/Dengelberger/Work-Day-Scheduler/blob/master/Assets/Screenshot%20(481).png
 
